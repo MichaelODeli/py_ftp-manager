@@ -1,0 +1,4 @@
+you need to move file "__init__.py" to the directory of your python to support the action on click on the notification
+Python38 may be other, but not lower, than 3.6!
+
+for example, standart direcoty is: %localappdata%\Programs\Python\Python38\Lib\site-packages\win10toast
