@@ -15,7 +15,7 @@ hosturl=config.get('ftp_param', 'host')
 folder_list=config.get('ftp_param', 'folder')
 ftplogin=config.get('ftp_param', 'login')
 ftppassword=config.get('ftp_param', 'password')
-tmemon=config.get('main', 'tmemon')
+tmemon=int(config.get('main', 'tmemon'))
 folder_list=folder_list.split(",")
 folders_number=len(folder_list)
 
