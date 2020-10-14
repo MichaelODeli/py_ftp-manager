@@ -1,3 +1,5 @@
+# Warning!
+All updates will be here: https://github.com/MichaelODeli/py_microapps
 # py_ftp-manager
 A simple script to track file changes in an FTP directory
 
